@@ -13,7 +13,7 @@ facebook:
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/cusco"
+  baseURL: "https://github.com/"
   icon: "fa-github"
 
 twitter:
@@ -23,7 +23,7 @@ twitter:
 
 reddit:
   name: "Reddit"
-  baseURL: "https://reddit.com/u/cusco"
+  baseURL: "https://reddit.com/u/"
   icon: "fa-reddit"
 
 google-plus:
@@ -38,7 +38,7 @@ email:
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/tiago-geada-a6939022"
+  baseURL: "https://linkedin.com/in/"
   icon: "fa-linkedin"
 
 xing:
@@ -48,7 +48,7 @@ xing:
 
 stackoverflow:
   name: "StackOverflow"
-  baseURL: "https://stackoverflow.com/users/cusco"
+  baseURL: "https://stackoverflow.com/users/"
   icon: "fa-stack-overflow"
 
 snapchat:
@@ -73,7 +73,7 @@ spotify:
 
 telephone:
   name: "Phone"
-  baseURL: "tel: +351 210332450"
+  baseURL: "tel:"
   icon: "fa-phone"
 
 rss:
