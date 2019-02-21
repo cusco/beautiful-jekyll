@@ -71,13 +71,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "tralala@example.com"
+  email: "tralala@tretas.eu"
   #facebook: daattali
-  github: daattali
+  github: cusco
   #twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: daattali
+  linkedin: tiago-geada-a6939022
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -98,7 +98,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "tralala.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "tralala.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
