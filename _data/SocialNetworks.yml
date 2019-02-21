@@ -13,7 +13,7 @@ facebook:
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/"
+  baseURL: "https://github.com/cusco"
   icon: "fa-github"
 
 twitter:
@@ -23,7 +23,7 @@ twitter:
 
 reddit:
   name: "Reddit"
-  baseURL: "https://reddit.com/u/"
+  baseURL: "https://reddit.com/u/cusco"
   icon: "fa-reddit"
 
 google-plus:
