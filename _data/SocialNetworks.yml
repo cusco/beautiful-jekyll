@@ -38,7 +38,7 @@ email:
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
+  baseURL: "https://linkedin.com/in/tiago-geada-a6939022"
   icon: "fa-linkedin"
 
 xing:
@@ -48,7 +48,7 @@ xing:
 
 stackoverflow:
   name: "StackOverflow"
-  baseURL: "https://stackoverflow.com/users/"
+  baseURL: "https://stackoverflow.com/users/cusco"
   icon: "fa-stack-overflow"
 
 snapchat:
@@ -73,7 +73,7 @@ spotify:
 
 telephone:
   name: "Phone"
-  baseURL: "tel:"
+  baseURL: "tel: +351 210332450"
   icon: "fa-phone"
 
 rss:
@@ -88,7 +88,7 @@ steam:
 
 twitch:
   name: "Twitch"
-  baseURL: "https://www.twitch.tv/"
+  baseURL: "https://www.twitch.tv/cu5c0"
   icon: "fa-twitch"
 
 yelp:
